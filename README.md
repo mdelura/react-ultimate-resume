@@ -83,7 +83,7 @@ Replace the default JSON Resume with yours
 
 ### Deploy on you own server
 
-You can deploy your resume on your own server in few minutes. Follow our [HOW TO documentation](https://welovedevs.com/react-ultimate-resume/docs/deploy-fork). 
+You can deploy your resume on your own server in few minutes. Follow our [HOW TO documentation](https://welovedevs.com/react-ultimate-resume/docs/Deploy/deploy-fork). 
 
 ### Use inside your project
 
